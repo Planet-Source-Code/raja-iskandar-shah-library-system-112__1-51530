@@ -1,0 +1,153 @@
+[Root]
+Most Recent Package=Pustaka Library 112
+
+
+[Package|Pustaka Library 112|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Download\vb-library\Library2\PUSTAKA VB SETUP
+
+[Package|Pustaka Library 112|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Pustaka Library 112|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Pustaka Library 112|Files Found]
+
+[Package|Pustaka Library 112|Files Released]
+
+[Package|Pustaka Library 112|Missing Dependency Information]
+C:\Program Files\Common Files\System\ado\msado25.tlb=
+C:\WINDOWS\system32\LVbuttons.ocx=
+
+[Package|Pustaka Library 112|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\Mscomctl.ocx=
+C:\WINDOWS\system32\MSRDO20.DLL=
+
+[Package|Pustaka Library 112|Files Added]
+
+[Package|Pustaka Library 112|Files Removed]
+
+[Package|Pustaka Library 112|Files In Project]
+C:\Download\vb-library\Library2\Library112.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado25.tlb=Yes
+C:\WINDOWS\system32\msbind.dll=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\MSRDC20.OCX=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\Mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSINET.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\mswinsck.ocx=Yes
+C:\WINDOWS\system32\MSMAPI32.OCX=Yes
+C:\WINDOWS\system32\MCI32.OCX=Yes
+C:\WINDOWS\system32\PICCLP32.OCX=Yes
+C:\WINDOWS\system32\SYSINFO.OCX=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\msdatgrd.ocx=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\comct332.ocx=Yes
+C:\WINDOWS\system32\msadodc.ocx=Yes
+C:\WINDOWS\system32\mshflxgd.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\Vb6stkit.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\LVbuttons.ocx=Yes
+
+[Package|Pustaka Library 112|Configure Registry Files]
+Applicable=No
+
+[Package|Pustaka Library 112|Configure Remote Servers]
+Applicable=No
+
+[Package|Pustaka Library 112|Install Locations]
+C:\Download\vb-library\Library2\Library112.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado25.tlb=$(WinSysPath)
+C:\WINDOWS\system32\msbind.dll=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mswinsck.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msdatgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\comct332.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msadodc.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mshflxgd.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\Vb6stkit.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\LVbuttons.ocx=$(WinSysPath)
+
+[Package|Pustaka Library 112|Configure Shared Files]
+Applicable=Yes
+C:\Download\vb-library\Library2\Library112.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Pustaka Library 112|Distribution]
+Type=single
+Size=
+Title=Pustaka Library
+
+[Package|Pustaka Library 112|Package]
+PackageFolder=C:\Download\vb-library\Library2\PUSTAKA VB SETUP
+ProjectFolder=C:\Download\vb-library\Library2\PUSTAKA
+ServerSideCab=
+File1=C:\Download\vb-library\Library2\PUSTAKA VB SETUP\setup.exe
+File2=C:\Download\vb-library\Library2\PUSTAKA VB SETUP\Setup.Lst
+File3=C:\Download\vb-library\Library2\PUSTAKA VB SETUP\Library112.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Pustaka Library 112|IconGroups]
+Group0=Pustaka Library
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Pustaka Library 112|Pustaka Library]
+Icon1=Library112.exe
+Title1=Pustaka Library
+StartIn1=$(AppPath)
+Key1=Icon1
